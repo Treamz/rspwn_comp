@@ -1,0 +1,6 @@
+CREATE TABLE `rspwn_comp1` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `username` text NULL,
+  `refs` int NULL,
+  PRIMARY KEY (`id`)
+);
